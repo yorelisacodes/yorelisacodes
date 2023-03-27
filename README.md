@@ -6,6 +6,11 @@ I am a Latinx with experience in customer service and operations, who pivoted in
 
 Curently I am 🌱 learning about Object Oriented Programming.You could reach me via linkedIn or my Portfolio, both links are in my Bio.
 
+### Skills: 
+![](HTML.png)
+![](CSS.png)
+![](javascript.png)
+
 <!--
 **yorelisacodes/yorelisacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
