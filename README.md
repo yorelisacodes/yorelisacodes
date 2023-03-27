@@ -1,10 +1,11 @@
 ### Hi there 👋, I am Yorelisa 
 
-![banner](screenshot.png)
+![banner](screenshot2.png)
 
 I am a Latinx with experience in customer service and operations, who pivoted into tech. I have so much to offer in this field and with my attention to detail I could be an asset to your team. Please ask me about my first project with JavaScript which is the slot machine. 
 
 Curently I am 🌱 learning about Object Oriented Programming.You could reach me via linkedIn or my Portfolio, both links are in my Bio.
+⚡ Fun fact: I have bungee jumped and would love to skydive one day! 
 
 ### Skills: 
 ![HTML5](https://img.shields.io/badge/HTML5-CD6A20?style=for-the-badge&logo=HTML5&logoColor=white)
