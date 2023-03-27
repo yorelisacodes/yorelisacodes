@@ -7,9 +7,13 @@ I am a Latinx with experience in customer service and operations, who pivoted in
 Curently I am 🌱 learning about Object Oriented Programming.You could reach me via linkedIn or my Portfolio, both links are in my Bio.
 
 ### Skills: 
-![](HTML.png)
-![](CSS.png)
-![](javascript.png)
+![HTML5](https://img.shields.io/badge/HTML5-CD6A20?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-B11F05?style=for-the-badge&logo=CSS3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-E4DA02?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-3359FF?style=for-the-badge&logo=REACT&logoColor=white)
+![NODE.JS](https://img.shields.io/badge/NODE.JS-549D05?style=for-the-badge&logo=NODE.JS&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MONGODB-FF33F2?style=for-the-badge&logo=MONGODB&logoColor=white)
+
 
 <!--
 **yorelisacodes/yorelisacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
