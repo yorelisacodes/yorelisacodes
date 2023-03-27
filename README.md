@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Yorelisa 
 
-![banner](/Users/yorelisacalcano-acosta/Desktop/RC2023A/Week6/yorelisacodes/screenshot.png)
+![banner](screenshot.png)
 
 I am a Latinx with experience in customer service and operations, who pivoted into tech. I have so much to offer in this field and with my attention to detail I could be an asset to your team. Please ask me about my first project with JavaScript which is the slot machine. 
 
