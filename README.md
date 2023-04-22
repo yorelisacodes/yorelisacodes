@@ -2,7 +2,7 @@
 
 ![banner](screenshot2.png)
 
-I am a Latinx with experience in customer service and operations, who pivoted into tech. I have so much to offer in this field and with my attention to detail I could be an asset to your team. Please ask me about my first project with JavaScript which is the slot machine. 
+I am a Latinx with experience in customer service and operations, who pivoted into tech. I have so much to offer in this field and with my attention to detail I could be an asset to your team. Please ask me about my first project with JavaScript which is the. 
 
 Curently I am 🌱 learning about Object Oriented Programming.You could reach me via linkedIn or my Portfolio, both links are in my Bio.
 
