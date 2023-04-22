@@ -17,8 +17,8 @@ Curently I am 🌱 learning about Object Oriented Programming.You could reach me
 ![MONGODB](https://img.shields.io/badge/MONGODB-FF33F2?style=for-the-badge&logo=MONGODB&logoColor=white)
 
 
-### Some Stats About Me
-<p align="center" >
+### GitHub Stat:
+<p align="left" >
 <img alt="Yorelisa's github stats" src="https://github-readme-stats.vercel.app/api?username=yorelisacodes&show_icons=true&theme=merko"  > </p>
 
 <!--
