@@ -1,4 +1,4 @@
-### Hi there 👋, I am Yorelisa 
+### Hola 👋🏾, I am Yorelisa 
 
 ![banner](screenshot2.png)
 
