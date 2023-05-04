@@ -16,6 +16,7 @@ Curently I am 🌱 learning about Node.js, Express and MongoDB. You could reach 
 ![REACT](https://img.shields.io/badge/REACT-3359FF?style=for-the-badge&logo=REACT&logoColor=white)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-549D05?style=for-the-badge&logo=NODE.JS&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MONGODB-FF33F2?style=for-the-badge&logo=MONGODB&logoColor=white)
 
 
