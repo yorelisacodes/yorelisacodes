@@ -7,7 +7,7 @@ I am a Latinx with experience in customer service and operations, who pivoted in
 Curently I am 🌱 learning about Node.js, Express and MongoDB. You could reach me via linkedIn or my Portfolio, both links are in my Bio.
 
 -⚡ Fun fact: I have bungee jumped and would love to skydive one day! 
-- 🔭 I’m currently working on my bundle thriftstore app for women entrepreneur by women
+-🔭 I’m currently working on my bundle thriftstore app for women entrepreneur by women
 
 ### Skills: 
 ![HTML5](https://img.shields.io/badge/HTML5-CD6A20?style=for-the-badge&logo=HTML5&logoColor=white)
