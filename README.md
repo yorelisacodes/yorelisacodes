@@ -4,10 +4,9 @@
 
 I am a Latinx with experience in customer service and operations, who pivoted into tech. I have so much to offer in this field and with my attention to detail I could be an asset to your team. Please ask me about my first project with JavaScript which is the to-do list. I would talk you through my code.
 
-Curently I am 🌱 learning about Node.js, Express and MongoDB. You could reach me via linkedIn or my Portfolio, both links are in my Bio.
+Curently I am 🌱 learning Java. You could reach me via linkedIn or my Portfolio, both links are in my Bio.
 
 -⚡ Fun fact: I have bungee jumped and would love to skydive one day! 
-- 🌱 I’m currently learning Java 
 -🔭 I’m currently working on my bundle thriftstore app for women entrepreneur by women
 
 ### Skills: 
